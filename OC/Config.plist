@@ -1056,7 +1056,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>dk.e1000=0 unfairgva=4 igfxonln=1</string>
+				<string>dk.e1000=0 unfairgva=4 igfxonln=1 -noht40 -novht</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
